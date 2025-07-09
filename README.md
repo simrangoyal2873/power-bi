@@ -1,5 +1,4 @@
-# power-bi
-Ecommerce Sales Power BI Dashboard
+# Ecommerce Sales Power BI Dashboard
 This project showcases an interactive Power BI dashboard designed to analyze and visualize key eCommerce sales metrics. It provides actionable insights to support data-driven decision-making for sales and marketing strategies.
 
 Revenue & Sales Trends: Track daily, monthly, and yearly sales performance.
